@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T15:31:22.046Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ZHDIKf3-GeVeHLJefBIg" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T15:52:08.240Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="opKPnyVeZwjkHEO-jrAU" version="21.6.6" type="github">
   <diagram name="Página-1" id="rslMsC20Onptic1OCOGN">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,6 +122,14 @@
               <mxPoint x="367.5" y="230" />
               <mxPoint x="277.5" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-17" value="La demanda dice que ahora se llama COFIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="460" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-21" target="QSxY1Z9GzGt5NTgHkNYr-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
