@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T15:09:11.040Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="l8OFI0FdxkUB1KNdxEW0" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T15:17:31.981Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="3mu-E-aRDNkVymFebILb" version="21.6.6" type="github">
   <diagram name="Página-1" id="rslMsC20Onptic1OCOGN">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-6" target="QSxY1Z9GzGt5NTgHkNYr-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="280" />
+              <mxPoint x="310" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=#b5835a;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="240" width="145" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="DVwxMNTtDxKVdh-1IFF6-3" value="&lt;div&gt;3.056.161.180&lt;/div&gt;" style="edgeStyle=entityRelationEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" source="DVwxMNTtDxKVdh-1IFF6-1" target="DVwxMNTtDxKVdh-1IFF6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -60,7 +75,7 @@
         <mxCell id="DVwxMNTtDxKVdh-1IFF6-21" value="Finexpar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DVwxMNTtDxKVdh-1IFF6-26" value="&lt;h1&gt;Implicancias&lt;/h1&gt;&lt;p&gt;1. Reconocen mi actuación el PLRA&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Finexpar ya no tiene acción e Itapua 01 ya no tiene acción a partir del 28 de abril según aclaró Peroni.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Es mas finexpar reconoció que ya está pagado.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.Itapua01 tuvo que haber cedido su crédito.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Finexpar tuvo que haber cedido su crçedito.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-26" value="&lt;h1&gt;Implicancias&lt;/h1&gt;&lt;p&gt;1. Reconocen mi actuación el PLRA&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Finexpar ya no tiene acción e Itapua 01 ya no tiene acción a partir del 28 de abril según aclaró Peroni.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Es mas finexpar reconoció que ya está pagado.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Itapua01 tuvo que haber cedido su crédito.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Finexpar tuvo que haber cedido su crçedito.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="380" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QSxY1Z9GzGt5NTgHkNYr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#EA6B66;strokeWidth=2;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-27" target="QSxY1Z9GzGt5NTgHkNYr-3">
@@ -68,12 +83,8 @@
             <mxPoint x="235" y="65" as="sourcePoint" />
             <mxPoint x="700" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="205" y="65" />
-              <mxPoint x="460" y="65" />
-              <mxPoint x="460" y="50" />
-              <mxPoint x="700" y="50" />
-              <mxPoint x="700" y="90" />
-              <mxPoint x="805" y="90" />
+              <mxPoint x="205" y="50" />
+              <mxPoint x="815" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,6 +117,9 @@
         </mxCell>
         <mxCell id="QSxY1Z9GzGt5NTgHkNYr-8" value="Ambos se dieron por pagados enteramente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="440" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QSxY1Z9GzGt5NTgHkNYr-13" value="Ya cobró WV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="215" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
