@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" modified="2023-08-01T13:46:20.662Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4pCsSBgGWBktyVZtzQp6" version="21.6.6" type="github">
+  <diagram name="Página-1" id="rslMsC20Onptic1OCOGN">
+    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-3" value="&lt;div&gt;3.056.161.180&lt;/div&gt;" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-1" target="DVwxMNTtDxKVdh-1IFF6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-1" target="DVwxMNTtDxKVdh-1IFF6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-1" value="PLRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-10" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-2" target="DVwxMNTtDxKVdh-1IFF6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-12" value="a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVwxMNTtDxKVdh-1IFF6-10">
+          <mxGeometry x="0.0375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-2" value="Meridian" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-7" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-4" target="DVwxMNTtDxKVdh-1IFF6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-4" target="DVwxMNTtDxKVdh-1IFF6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-4" value="PLRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-20" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-6" target="DVwxMNTtDxKVdh-1IFF6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-6" value="Itapua01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-9" value="Meridian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-11" value="Fondos provienentes de" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-18" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-15" target="DVwxMNTtDxKVdh-1IFF6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-15" value="en cash 1 mil mm." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-19" value="Vinanzas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-24" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-21" target="DVwxMNTtDxKVdh-1IFF6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-21" value="Finexpar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-26" value="&lt;h1&gt;Implicancias&lt;/h1&gt;&lt;p&gt;1. Reconocen mi actuación el PLRA&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Finexpar ya no tiene acción e Itapua 01 ya no tiene acción a partir del 28 de marzo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.Itapua01 tuvo que haber cedido su crédito.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Finexpar tuvo que haber cedido su crçedito.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-27" target="DVwxMNTtDxKVdh-1IFF6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-27" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ff7800;" vertex="1" parent="1">
+          <mxGeometry x="495" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-28" target="DVwxMNTtDxKVdh-1IFF6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-28" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ff7800;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="DVwxMNTtDxKVdh-1IFF6-30" target="DVwxMNTtDxKVdh-1IFF6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-30" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ff7800;" vertex="1" parent="1">
+          <mxGeometry x="495" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVwxMNTtDxKVdh-1IFF6-32" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=20;fontColor=#ff7800;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
