@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" modified="2023-08-08T23:58:36.782Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="E1zxSGCuB_xvoLrV76rE" version="21.6.6" type="github">
+  <diagram id="0URmfidVmoPI4nKs1oKV" name="Page-1">
+    <mxGraphModel dx="815" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-7" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-1" value="Objeto brevemente expuesto tipo telegrama.&lt;br&gt;Dirigirse al señor Juez, señalar todos los datos del expediente así como representación" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-7" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-2" value="Encabezado" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-7" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-11" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-12" value="Objeto explicado en detalle: Vengo a: a, c..." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-11" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-13" value="Objeto" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-11" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="280" y="410" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-8" value="" style="group" parent="sEUO8uWkkUGUnaUZKEFc-14" vertex="1" connectable="0">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-10" value="Resumen" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-8" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-9" value="Solo si el escrito es largo.&lt;br&gt;Resumumir brevemente el tema." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-14" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="640" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-17" value="Temas que hacen al asunto pero no lo definen" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-16" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-18" value="iNTRO" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=center;" parent="sEUO8uWkkUGUnaUZKEFc-16" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-19" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="840" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-20" value="El asunto. Puede tener varios capitulos" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-19" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-21" value="Quid" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-19" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-22" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="280" y="840" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-23" value="Si es que hay algo adicional" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-22" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-24" value="Quid2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-22" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="520" y="840" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-26" value="a..Conclusión&lt;br&gt;b.Pruebas&lt;br&gt;c.Derechos&lt;br&gt;d.Petitorio" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-25" vertex="1">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-27" value="cierre" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;shadow=0;sketch=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="sEUO8uWkkUGUnaUZKEFc-25" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-17" target="sEUO8uWkkUGUnaUZKEFc-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-20" target="sEUO8uWkkUGUnaUZKEFc-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-23" target="sEUO8uWkkUGUnaUZKEFc-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-12" target="sEUO8uWkkUGUnaUZKEFc-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-1" target="sEUO8uWkkUGUnaUZKEFc-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-12" target="sEUO8uWkkUGUnaUZKEFc-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEUO8uWkkUGUnaUZKEFc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Garamond;" parent="1" source="sEUO8uWkkUGUnaUZKEFc-9" target="sEUO8uWkkUGUnaUZKEFc-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="600" />
+              <mxPoint x="160" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
