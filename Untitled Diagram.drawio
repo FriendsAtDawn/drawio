@@ -1,22 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T19:52:48.491Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="EGW882aR6IM6ChQKYFTz" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T20:07:01.484Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="VlyV_HRH65SNXFIpqROU" version="21.6.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1427" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3dQRqG6nnBPtBo7Co6v3-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="3dQRqG6nnBPtBo7Co6v3-2" target="3dQRqG6nnBPtBo7Co6v3-3">
+        <mxCell id="3dQRqG6nnBPtBo7Co6v3-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;" edge="1" parent="1" source="3dQRqG6nnBPtBo7Co6v3-2" target="3dQRqG6nnBPtBo7Co6v3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3dQRqG6nnBPtBo7Co6v3-2" value="Resolución" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fillStyle=hatch;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="3dQRqG6nnBPtBo7Co6v3-2" value="Resolución" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fillStyle=hatch;fontColor=#5C5C5C;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3dQRqG6nnBPtBo7Co6v3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3dQRqG6nnBPtBo7Co6v3-3" target="3dQRqG6nnBPtBo7Co6v3-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3dQRqG6nnBPtBo7Co6v3-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;strokeColor=#006658;fontColor=default;" edge="1" parent="1" source="3dQRqG6nnBPtBo7Co6v3-3" target="3dQRqG6nnBPtBo7Co6v3-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="240" />
+              <mxPoint x="490" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3dQRqG6nnBPtBo7Co6v3-3" value="Escrito en que señalamos que si no expresa los recursos y sus plazos no corre ninguno" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fillStyle=cross-hatch;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="160" height="80" as="geometry" />
+        <mxCell id="3dQRqG6nnBPtBo7Co6v3-3" value="Escrito en que señalamos que si no expresa los recursos y sus plazos no corre ninguno" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;fontColor=#5C5C5C;strokeColor=#006658;fillStyle=cross-hatch;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3dQRqG6nnBPtBo7Co6v3-5" value="Notifican la misma resolucion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fillStyle=hatch;" vertex="1" parent="1">
+        <mxCell id="3dQRqG6nnBPtBo7Co6v3-5" value="Notifican la misma resolucion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;fontColor=#5C5C5C;strokeColor=#006658;fillStyle=hatch;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
