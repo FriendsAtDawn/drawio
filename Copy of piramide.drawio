@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T19:35:54.749Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GD0WMluZLZIATs4aBvEf" version="21.6.9" type="github" pages="2">
+  <diagram name="Page-1" id="EsdI76X-N3Lv8hJsYsn0">
+    <mxGraphModel dx="1432" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="-qo0OT37eEBD1ffiUN1L-1" target="-qo0OT37eEBD1ffiUN1L-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-1" value="Inicio de la Ejecución" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-2" value="Momento del pedido" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-4" value="6+ meses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#9c2b2b;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="-qo0OT37eEBD1ffiUN1L-5" target="-qo0OT37eEBD1ffiUN1L-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-5" value="providencia por el cual el juzgado ordenó la agregación de intimación de pago y embargo ejecutivo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-6" value="en adelante" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-8" value="3 meses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="180" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-9" value="9/10/2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="530" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-12" value="Thema decidido en Alzada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="170" y="470" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-14" value="Cosa Juzgada Formal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="120" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="400" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-qo0OT37eEBD1ffiUN1L-16" value="Thema nunca propuesto antes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="400" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HnZ-XrstblCVq72wiWXf" name="Page-2">
+    <mxGraphModel dx="1432" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-1" value="Constitución" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Serif;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=cross-hatch;" parent="1" vertex="1">
+          <mxGeometry x="399.99999999999994" y="60" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-2" value="Plan de &lt;br&gt;acción para desarrollo y convergencia de plataformas digitales..." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Serif;aspect=fixed;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="260" y="200" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=CMU Serif;fontSize=12;fontColor=default;" parent="1" source="Xm4njxFKUfQRiqq2-SrQ-4" target="Xm4njxFKUfQRiqq2-SrQ-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-4" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Defensa del Consumidor “Derechos Básicos”&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="410" y="200" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=CMU Serif;fontSize=12;fontColor=default;strokeColor=#7b3232;strokeWidth=2;dashed=1;" parent="1" source="Xm4njxFKUfQRiqq2-SrQ-6" target="Xm4njxFKUfQRiqq2-SrQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="310" />
+              <mxPoint x="700" y="310" />
+              <mxPoint x="700" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-6" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Defensa del Consumidor “Protección a la Salud y Seguridad del Consumidor”&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;verticalAlign=middle;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="560.0000000000001" y="200" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=CMU Serif;fontSize=12;fontColor=default;" parent="1" source="Xm4njxFKUfQRiqq2-SrQ-8" target="Xm4njxFKUfQRiqq2-SrQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="370" />
+              <mxPoint x="400" y="580" />
+              <mxPoint x="340" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-8" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Defensa del Consumidor – Garantía Contractual&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="260" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-10" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Derecho a la información del consumidor en las transacciones comerciales efectuadas a través de internet&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="410" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-12" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Defensa del Consumidor – Protección al Consumidor en el Comercio Electrónico&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=CMU Serif;fontSize=12;fontColor=default;strokeColor=#922020;strokeWidth=2;dashed=1;" parent="1" source="Xm4njxFKUfQRiqq2-SrQ-13" target="Xm4njxFKUfQRiqq2-SrQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-13" value="&lt;table width=&quot;100%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Defensa del Consumidor – Principios Fundamentales&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#f2e9f7;strokeColor=#9673a6;fillStyle=dots;" parent="1" vertex="1">
+          <mxGeometry x="260" y="440" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelBorderColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="220" y="190" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-16" value="Instrumentos del Tratado de Mercosur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=CMU Serif;" parent="1" vertex="1">
+          <mxGeometry x="120" y="357.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-17" value="Ley de Protección de los Consumidores" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=CMU Serif;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
+          <mxGeometry x="280" y="620" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-19" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=CMU Serif;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#c11f1f;strokeWidth=2;" parent="1" source="Xm4njxFKUfQRiqq2-SrQ-4" target="Xm4njxFKUfQRiqq2-SrQ-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="180" />
+              <mxPoint x="720" y="180" />
+              <mxPoint x="720" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-23" value="Constitución" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=CMU Serif;fontColor=default;rotation=-90;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="30" y="95" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-24" value="Tratados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=CMU Serif;fontColor=default;rotation=-90;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="30" y="357.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-26" value="Leyes de Orden Público" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=CMU Serif;fontColor=default;rotation=-90;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="-37.5" y="655" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm4njxFKUfQRiqq2-SrQ-29" value="Este protocolo esta vigente en los 4 países desde 1996, algun otro, aún no ha sido ratificado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=CMU Serif;fontColor=default;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="480" y="510" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
