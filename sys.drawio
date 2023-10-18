@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T15:30:38.271Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="i8wPHR6WHzaDRoaTKGlK" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T15:34:15.697Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="a_13svQRmEjDNBwO0WxG" version="22.0.4" type="github">
   <diagram name="Page-1" id="J-tEM8-_cHN29kw1VTMn">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,15 @@
         </mxCell>
         <mxCell id="7rvpX1jjcliwjS5HqLVY-56" value="Nadie puede escanear con un teléfono" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
           <mxGeometry x="309.38" y="785" width="101.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-59" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.scanner;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="650" width="50" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-61" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="455" y="657.75" width="55" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-62" value="Todo lo descrito tiene su base técnica y su base legal, la que no se describe porque no es necesaria" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
