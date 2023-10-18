@@ -1,38 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T15:00:51.159Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="61M3umWVCUTJX-0ITciu" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T15:30:38.271Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="i8wPHR6WHzaDRoaTKGlK" version="22.0.4" type="github">
   <diagram name="Page-1" id="J-tEM8-_cHN29kw1VTMn">
     <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-2" target="7rvpX1jjcliwjS5HqLVY-3">
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-1" target="7rvpX1jjcliwjS5HqLVY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-2" value="Debe estar manuscritamente firmada por quien NO lo presenta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
-          <mxGeometry x="260" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="50" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-3" value="Esa es la razón por la que te solicito el escaneo con una máquina escaner de la mejor calidad disponible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
-          <mxGeometry x="250" y="620" width="140" height="100" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-2" target="7rvpX1jjcliwjS5HqLVY-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.scanner;" vertex="1" parent="1">
-          <mxGeometry x="400" y="252.5" width="80" height="100" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-2" value="Debe estar manuscritamente o digitalmente firmada por quien NO lo presenta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-8" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="252.5" width="80" height="100" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-7" target="7rvpX1jjcliwjS5HqLVY-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="270" width="80" height="100" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.scanner;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="50" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="80" height="50" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-8" target="7rvpX1jjcliwjS5HqLVY-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-11" value="Flujo de trabajo para el caso de que Wilson sea el patrocinante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="720" height="40" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-8" value="" style="shape=actor;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="50" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="7rvpX1jjcliwjS5HqLVY-14" value="Documento sin firma alguna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="80" height="60" as="geometry" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-9" value="" style="shape=actor;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="50" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-10" target="7rvpX1jjcliwjS5HqLVY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="258.75" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-11" value="Los escritos judiciales electronicos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-14" value="Documento sin firma alguna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="65" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-15" target="7rvpX1jjcliwjS5HqLVY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-15" value="Apoderado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="185" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-14" target="7rvpX1jjcliwjS5HqLVY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-19" target="7rvpX1jjcliwjS5HqLVY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-19" value="Máquina de escanear -no teléfono" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="425" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-20" value="email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-22" target="7rvpX1jjcliwjS5HqLVY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-22" value="Patrocinante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="655" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.488;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-20" target="7rvpX1jjcliwjS5HqLVY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-33" target="7rvpX1jjcliwjS5HqLVY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="247.75" width="51" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-36" target="7rvpX1jjcliwjS5HqLVY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-36" value="Firma Manuscrita o Digital" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-41" value="Flujo de trabajo para el caso de que el patrocinante no tenga poder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-42" target="7rvpX1jjcliwjS5HqLVY-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-42" value="El que lo presenta se puede eximir de firmar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="525" y="485" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-45" value="" style="shape=actor;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="50" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="560" width="51" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-47" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-49" value="" style="shape=actor;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="50" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-50" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="560" width="51" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-51" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="685" y="560" width="55" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-52" target="7rvpX1jjcliwjS5HqLVY-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-52" value="Pero no puede presentar un escaneado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="640" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-54" target="7rvpX1jjcliwjS5HqLVY-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-54" value="Esa es la razón por la cual no se puede usar el teléfono sino un equipo hecho para tal cosa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="760" width="127.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-56" value="Nadie puede escanear con un teléfono" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="309.38" y="785" width="101.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
