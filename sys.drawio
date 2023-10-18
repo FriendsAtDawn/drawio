@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T14:46:38.805Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="c5h0rLP23cVdX4Wz5mOI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T15:00:51.159Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="61M3umWVCUTJX-0ITciu" version="22.0.4" type="github">
   <diagram name="Page-1" id="J-tEM8-_cHN29kw1VTMn">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rvpX1jjcliwjS5HqLVY-2" target="7rvpX1jjcliwjS5HqLVY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-2" value="Debe estar manuscritamente firmada por quien NO lo presenta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-3" value="Esa es la razón por la que te solicito el escaneo con una máquina escaner de la mejor calidad disponible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.scanner;" vertex="1" parent="1">
+          <mxGeometry x="400" y="252.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-8" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="252.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-11" value="Flujo de trabajo para el caso de que Wilson sea el patrocinante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7rvpX1jjcliwjS5HqLVY-14" value="Documento sin firma alguna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
