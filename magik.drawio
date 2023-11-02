@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T12:32:44.452Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="N4pYwwyk86QvEK80KfkK" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T12:37:52.647Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="EanQDXblDT4tNFgiVuku" version="22.0.8" type="github">
   <diagram name="Page-1" id="501Ff_eeZb3qefrGNSia">
-    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="521" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NIeM4xV6TDkffvJQjB37-1" value="&lt;font face=&quot;Architect&#39;s Daughter&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architect&#39;s+Daughter&quot;&gt;Firma Electrónica Autofirmada, es decir no cualificada&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="180" y="331" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="211" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NIeM4xV6TDkffvJQjB37-2" value="Escrito" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="NIeM4xV6TDkffvJQjB37-2" value="$$Escrito_0$$" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NIeM4xV6TDkffvJQjB37-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NIeM4xV6TDkffvJQjB37-5" target="NIeM4xV6TDkffvJQjB37-8">
+        <mxCell id="NIeM4xV6TDkffvJQjB37-9" value="magik" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NIeM4xV6TDkffvJQjB37-5" target="NIeM4xV6TDkffvJQjB37-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NIeM4xV6TDkffvJQjB37-5" value="Judisoft" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="340" y="211" width="80" height="120" as="geometry" />
+          <mxGeometry x="360" y="211" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NIeM4xV6TDkffvJQjB37-7" value="&lt;font face=&quot;Architect&#39;s Daughter&quot;&gt;Juidisoft© lo firma con su firma electrónica cualificada&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NIeM4xV6TDkffvJQjB37-8" value="$$Escrito_1$$" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="480" y="211" width="80" height="120" as="geometry" />
+        <mxCell id="NIeM4xV6TDkffvJQjB37-8" value="$$Escrito_1$$" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="211" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NIeM4xV6TDkffvJQjB37-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=70;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NIeM4xV6TDkffvJQjB37-2" target="NIeM4xV6TDkffvJQjB37-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NIeM4xV6TDkffvJQjB37-11" value="&lt;font face=&quot;Architect&#39;s Daughter&quot;&gt;Firmado ya en su totalidad con la firma electrónica cualificada&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="660" y="225" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
